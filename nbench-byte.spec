@@ -32,7 +32,7 @@ algorytmiczne, zaprojektowane aby sprawdziæ mo¿liwo¶ci CPU, FPU i
 podsystemu pamiêci. Mo¿na o nich poczytaæ na stronach BYTE.
 
 Program benchmarka wykonuje siê poni¿ej 10 minut (na wiêkszo¶ci
-maszyn) i porównuje system na którym dzia³± do dwóch innych systemów
+maszyn) i porównuje system na którym dzia³a do dwóch innych systemów
 (Della z Pentium 90, 256KB cache pod MS DOS-em oraz AMD K6/233 z 512KB
 cache pod Linuksem). Oryginalne archiwum zawiera pe³ne ¼ród³a,
 dokumentacjê oraz binarkê (Linux ELF). ¬ród³a kompiluj± siê na wielu
