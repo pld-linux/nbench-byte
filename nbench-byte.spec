@@ -1,12 +1,12 @@
 Summary:	Port of release 2 of BYTE Magazine's BYTEmark benchmark program
 Summary(pl):	Port wydania 2. benchmarka BYTEmark z magazynu BYTE
 Name:		nbench-byte
-Version:	2.2.1
+Version:	2.2.2
 Release:	1
 License:	freely distributable
 Group:		Applications/Console
 Source0:	ftp://ftp.tux.org/pub/tux/mayer/%{name}-%{version}.tar.gz
-# Source0-md5:	92694db00b9698f4f7525e0580ed876b
+# Source0-md5:	174c1917eea8f74bd3e78522592e0658
 URL:		http://www.tux.org/~mayer/linux/bmark.html
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
