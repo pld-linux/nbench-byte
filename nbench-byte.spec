@@ -43,7 +43,7 @@ Ultrix, MS-DOS i oczywi¶cie Linux.
 %setup -q
 
 %build
-%{__make} \
+%{__make} -j1 \
 	CC="%{__cc}" \
 	CFLAGS="%{rpmcflags} -Wall"
 
