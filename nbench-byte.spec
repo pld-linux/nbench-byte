@@ -26,7 +26,7 @@ compiled on various operating systems, including SunOS, DEC Unix 4.0, DEC
 OSF1, HP-UX, DEC Ultrix, MS-DOS, and of course Linux.
 
 %description -l pl
-Jest to Linuksowy/Uniksowy port wydania 2. benchmarka magazynu BYTE
+Jest to linuksowy/uniksowy port wydania 2. benchmarka magazynu BYTE
 (poprzednio znanego jako BYTE's Native Mode Benchmarks). S± to testy
 algorytmiczne, zaprojektowane aby sprawdziæ mo¿liwo¶ci CPU, FPU i
 podsystemu pamiêci. Mo¿na o nich poczytaæ na stronach BYTE.
