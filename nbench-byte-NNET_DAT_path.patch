@@ -1,0 +1,12 @@
+diff -dur -x '*~' nbench-byte-2.2.2.orig/nbench1.h nbench-byte-2.2.2/nbench1.h
+--- nbench-byte-2.2.2.orig/nbench1.h	2004-12-30 03:15:18.000000000 +0100
++++ nbench-byte-2.2.2/nbench1.h	2006-05-11 21:21:52.000000000 +0200
+@@ -355,7 +355,7 @@
+ ** The Neural Net test requires an input data file.
+ ** The name is specified here.
+ */
+-char *inpath="NNET.DAT";
++char *inpath="/usr/share/nbench-byte/NNET.DAT";
+ 
+ /*
+ ** PROTOTYPES
