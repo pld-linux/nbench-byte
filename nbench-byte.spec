@@ -47,7 +47,8 @@ Ultrix, MS-DOS i oczywi¶cie Linux.
 %build
 %{__make} -j1 \
 	CC="%{__cc}" \
-	CFLAGS="%{rpmcflags} -Wall"
+	CFLAGS="%{rpmcflags} -Wall" \
+	LINKFLAGS="%{rpmldflags}"
 
 %install
 rm -rf $RPM_BUILD_ROOT
