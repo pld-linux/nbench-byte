@@ -55,7 +55,7 @@ rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT{%{_bindir},%{_datadir}/%{name}}
 
 install nbench $RPM_BUILD_ROOT%{_bindir}
-install -m 644 *.DAT $RPM_BUILD_ROOT%{_datadir}/%{name}
+install *.DAT $RPM_BUILD_ROOT%{_datadir}/%{name}
 
 %clean
 rm -rf $RPM_BUILD_ROOT
