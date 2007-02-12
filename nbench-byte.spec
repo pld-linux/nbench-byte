@@ -1,5 +1,5 @@
 Summary:	Port of release 2 of BYTE Magazine's BYTEmark benchmark program
-Summary(pl):	Port wydania 2. benchmarka BYTEmark z magazynu BYTE
+Summary(pl.UTF-8):   Port wydania 2. benchmarka BYTEmark z magazynu BYTE
 Name:		nbench-byte
 Version:	2.2.2
 Release:	2
@@ -26,19 +26,19 @@ documentation, and a binary (Linux ELF). The source has been successfully
 compiled on various operating systems, including SunOS, DEC Unix 4.0, DEC
 OSF1, HP-UX, DEC Ultrix, MS-DOS, and of course Linux.
 
-%description -l pl
+%description -l pl.UTF-8
 Jest to linuksowy/uniksowy port wydania 2. benchmarka magazynu BYTE
-(poprzednio znanego jako BYTE's Native Mode Benchmarks). S± to testy
-algorytmiczne, zaprojektowane aby sprawdziæ mo¿liwo¶ci CPU, FPU i
-podsystemu pamiêci. Mo¿na o nich poczytaæ na stronach BYTE.
+(poprzednio znanego jako BYTE's Native Mode Benchmarks). SÄ… to testy
+algorytmiczne, zaprojektowane aby sprawdziÄ‡ moÅ¼liwoÅ›ci CPU, FPU i
+podsystemu pamiÄ™ci. MoÅ¼na o nich poczytaÄ‡ na stronach BYTE.
 
-Program benchmarka wykonuje siê poni¿ej 10 minut (na wiêkszo¶ci
-maszyn) i porównuje system na którym dzia³a do dwóch innych systemów
+Program benchmarka wykonuje siÄ™ poniÅ¼ej 10 minut (na wiÄ™kszoÅ›ci
+maszyn) i porÃ³wnuje system na ktÃ³rym dziaÅ‚a do dwÃ³ch innych systemÃ³w
 (Della z Pentium 90, 256KB cache pod MS DOS-em oraz AMD K6/233 z 512KB
-cache pod Linuksem). Oryginalne archiwum zawiera pe³ne ¼ród³a,
-dokumentacjê oraz binarkê (Linux ELF). ¬ród³a kompiluj± siê na wielu
-ró¿nych systemach, w tym SunOS, DEC Unix 4.0, DEC OSF1, HP-UX, DEC
-Ultrix, MS-DOS i oczywi¶cie Linux.
+cache pod Linuksem). Oryginalne archiwum zawiera peÅ‚ne ÅºrÃ³dÅ‚a,
+dokumentacjÄ™ oraz binarkÄ™ (Linux ELF). Å¹rÃ³dÅ‚a kompilujÄ… siÄ™ na wielu
+rÃ³Å¼nych systemach, w tym SunOS, DEC Unix 4.0, DEC OSF1, HP-UX, DEC
+Ultrix, MS-DOS i oczywiÅ›cie Linux.
 
 %prep
 %setup -q
