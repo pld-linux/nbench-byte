@@ -1,5 +1,5 @@
 Summary:	Port of release 2 of BYTE Magazine's BYTEmark benchmark program
-Summary(pl.UTF-8):   Port wydania 2. benchmarka BYTEmark z magazynu BYTE
+Summary(pl.UTF-8):	Port wydania 2. benchmarka BYTEmark z magazynu BYTE
 Name:		nbench-byte
 Version:	2.2.2
 Release:	2
