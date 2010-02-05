@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This is port to Linux/Unix of release 2 of BYTE Magazine's BYTEmark
 benchmark program (previously known as BYTE's Native Mode Benchmarks).
 These are Native Mode (a.k.a. Algorithm Level) tests; benchmarks
-designed to expose the capabi- lities of a system's CPU, FPU, and
-memory system. Read all about it at BYTE's benchmark page.
+designed to expose the capabilities of a system's CPU, FPU, and memory
+system. Read all about it at BYTE's benchmark page.
 
 The benchmark program takes less than 10 minutes to run (on most
 machines) and compares the system it is run on to two benchmark
